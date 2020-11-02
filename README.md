@@ -1,9 +1,5 @@
-# COP 5615 - Project 2
-The goal of this project is to implement convergence of gossip algorithm
 
-## Group Info
-  - Shashi Prakash,  UFID: 5891-2989
-  - Shivam Agarwal,  UFID: 0319-3956
+The goal of this project is to implement convergence of gossip algorithm
 
 ##What is working 
 - Convergence of all topologies except line for both algorithms.
